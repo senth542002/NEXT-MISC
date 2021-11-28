@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import img from '../public/1.jpeg'
+import img from 'public/1.jpeg'
 function PetsPage() {
     return (
         <div>
