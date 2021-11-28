@@ -1,5 +1,5 @@
-import Header from "../components/Header"
-import Footer from "../components/Footer"
+import Header from '@/layout/Header'
+import Footer from '@/layout/Footer'
 import Head from 'next/head'
 
 function About() {
